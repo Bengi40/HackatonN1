@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 
-import "./pageSwipe.scss"
+import "./PageSwipe.scss"
 
  import Header from "../Header";
  import imgHome from '../../assets/img/icons8-accueil-50.png';
